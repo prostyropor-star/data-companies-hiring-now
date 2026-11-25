@@ -1,4 +1,4 @@
-# Companies hiring data engineering and machine learning now (November 2026)
+# Data and ML companies hiring now (November 2026)
 
 The **100 companies with the most open data engineers, analysts, data scientists and ML engineers roles right now**, read directly from their own career sites. Not a job board: every link goes to the company's own careers page.
 
